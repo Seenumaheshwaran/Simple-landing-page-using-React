@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Seenumaheshwaran/Simple-landing-page-using-React.git/static/css/main.e96c5f40.css",
+    "main.js": "/Seenumaheshwaran/Simple-landing-page-using-React.git/static/js/main.09c88551.js",
+    "index.html": "/Seenumaheshwaran/Simple-landing-page-using-React.git/index.html",
+    "main.e96c5f40.css.map": "/Seenumaheshwaran/Simple-landing-page-using-React.git/static/css/main.e96c5f40.css.map",
+    "main.09c88551.js.map": "/Seenumaheshwaran/Simple-landing-page-using-React.git/static/js/main.09c88551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e96c5f40.css",
+    "static/js/main.09c88551.js"
+  ]
+}
