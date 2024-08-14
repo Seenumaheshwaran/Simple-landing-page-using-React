@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    color: #fff;
+    margin: 0px;
+    top: 0px;
+    padding: 30px 0;
+    background-color: #333;
+    width: 100%;
+}
+h3{
+    font-size: 32px;
+    margin: 0px;
+    padding-left: 10px;
+    color: #fff;
+    font-weight: 400;
+    font-family: 'madimi one',sans-serif;
+}
+nav ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 24px;
+}
+
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 500;
+    transition: .3s ease;
+}
